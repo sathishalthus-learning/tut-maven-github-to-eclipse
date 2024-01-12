@@ -3,4 +3,15 @@
   <groupId>tut.althus</groupId>
   <artifactId>tut-maven-github-to-eclipse</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <dependencies>
+	  <dependency><groupId>org.seleniumhq.selenium</groupId>
+	  <artifactId>selenium-java</artifactId>
+	  <version>4.14.1</version>
+	  </dependency>
+	  <dependency><groupId>junit</groupId>
+	  <artifactId>junit</artifactId>
+	  <version>4.13.2</version>
+	  </dependency>
+  </dependencies>
 </project>

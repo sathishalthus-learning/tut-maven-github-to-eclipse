@@ -1,9 +1,11 @@
 package tests;
 
+import org.junit.Test;
+
 public class JustTest {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	@Test
+	public void printHello(){
 		
 		System.out.println("seems good");
 
